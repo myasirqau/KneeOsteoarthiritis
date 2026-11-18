@@ -1,3 +1,4 @@
+%% This is test fitness function replace it with your fitness function.
 function fit = fitnessFunction(X, Y, mask)
 % Fast NN-based fitness function
 
